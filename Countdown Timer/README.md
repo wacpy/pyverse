@@ -6,8 +6,6 @@
 
 ![Countdown timer with GUI design](https://files.catbox.moe/ivcx4w.png)
 
----
-
 ## Notification Feature
 
 - Sends notifications when the time you set ends
